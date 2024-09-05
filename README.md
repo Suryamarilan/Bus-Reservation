@@ -13,5 +13,5 @@ Before running the application, make sure you have the following installed on yo
 Java Development Kit (JDK): Version 8 or higher.
 
 
-git clone https://github.com/Suryamarilan/Bus Reservation.git
-cd Bus Reservation
+git clone https://github.com/Suryamarilan/Bus-Reservation.git
+cd Bus-Reservation
